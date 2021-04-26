@@ -1,0 +1,4 @@
+create table Terminoa(
+   ID integer primary key autoincrement,
+   Eus varchar(25),
+   Es varchar(25));
